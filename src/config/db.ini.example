@@ -1,0 +1,18 @@
+
+[MEDICINE]
+host = localhost
+database = MyDB
+user = MyUser
+password = MyPass
+
+[COMPARATOR]
+host = localhost
+database = MyDB
+user = MyUser
+password = MyPass
+
+[BASICOS]
+host=localhost
+database=MyDB
+user=MyUser
+password=MyPass

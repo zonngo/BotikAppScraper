@@ -1,0 +1,10 @@
+/.idea
+/test
+__pycache__
+/src/comparator/classification/*.so
+/src/comparator/classification/build
+/src/tests
+/src/logging.log
+/src/.idea
+
+/.vscode
