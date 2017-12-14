@@ -6,3 +6,6 @@
 1. `cp config/db.ini.example config/db.ini`
 1. put db credentials in the db.ini file
 1. `python3 updateMedicine.py`
+
+## License
+MIT
